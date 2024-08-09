@@ -7,9 +7,14 @@ form {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.input-group {
+.row {
   display: flex;
   justify-content: space-evenly;
+  gap: 1.5rem;
+  margin: 1rem;
+}
+
+.input-group {
   gap: 1.5rem;
 }
 
